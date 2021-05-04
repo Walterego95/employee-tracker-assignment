@@ -16,7 +16,7 @@ app.use(express.json());
 // API entry point or employee (example)
 app.get('/employee/all', async (req, res) => {
     try {
-        let employee = await database.runQuery("SELECT * FROM employeeWER;");
+        let employee = await database.runQuery("SELECT * FROM employee;");
         res.status(200).json(employee);
     } catch(error) {
         res.status(500).json(error);
