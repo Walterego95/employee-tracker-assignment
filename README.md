@@ -11,7 +11,7 @@
   </ul>
 
 <h2>Proof-of-concept video url:</h2>
-to be introduced soon...
+https://drive.google.com/file/d/1vQuNPOh2zuU1Pg4xFpnx-f3PEloIgRa7/view
 
 
 <footer>
